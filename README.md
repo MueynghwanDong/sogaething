@@ -2,7 +2,7 @@
 [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 > 매칭시스템을 도입한 중고거래 PWA
 
-![](./src/img/소개띵목업.png)
+![](./src/img/main.png)
 
  - 목표기능
 1. 자체 알고리즘으로 원하는 물건의 판매글과 빠른 매칭서비스를 제공
