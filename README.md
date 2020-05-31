@@ -66,4 +66,4 @@
 
 ## 라이센스
 
- @copyright Samsung Software Academy
+ @copyright Samsung Software Academy Seoul-2 404
